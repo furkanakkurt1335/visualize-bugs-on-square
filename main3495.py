@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from random import randint
-size = 10
+size = 6
 speed = 0.01
 inner_angle = (size-2)*180/size
 outer_angle = 180 - inner_angle
