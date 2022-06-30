@@ -12,5 +12,5 @@ A square:
 A hexagon:  
 ![hexagon](hexagon92584586.png)
 
-A decagon:  
+A decagon (speed of bugs increased to get a faster result):  
 ![decagon](decagon3456.png)
